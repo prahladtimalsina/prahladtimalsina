@@ -18,22 +18,22 @@ Here are some ideas to get you started:
 # Hello World,
 
 
-<a href="https://linkedin.com/in/">
+<a href="https://linkedin.com/in/prahladtimalsinaofficial">
   <img align="left" alt="Prahlad Timalsina - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
-<a href="https://instagram.com/">
+<a href="https://instagram.com/prahlad_timalsina">
   <img align="left" alt="Prahlad Timalsina - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
 </a>
-<a href="https://twitter.com/">
+<a href="https://twitter.com/officialprahlad/">
   <img align="left" alt="Prahlad Timalsina - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
 </a>
-<a href="https://facebook.com/">
+<a href="https://facebook.com/OfficialPrahladTimalsina">
   <img align="left" alt="Prahlad Timalsina - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
 </a>
 <br />
 <br />
 
-I'm an Engineer by profession and a Teacher by passion.  
+I'm a Software Engineer by profession.
 
 I'm just an invite away - prahladtimalsina7@gmail.com
 
