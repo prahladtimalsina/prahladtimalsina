@@ -14,3 +14,36 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hello World,
+
+
+<a href="https://linkedin.com/in/">
+  <img align="left" alt="Prahlad Timalsina - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+</a>
+<a href="https://instagram.com/">
+  <img align="left" alt="Prahlad Timalsina - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
+</a>
+<a href="https://twitter.com/">
+  <img align="left" alt="Prahlad Timalsina - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
+</a>
+<a href="https://facebook.com/">
+  <img align="left" alt="Prahlad Timalsina - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
+</a>
+<br />
+<br />
+
+I'm an Engineer by profession and a Teacher by passion.  
+
+I'm just an invite away - prahladtimalsina7@gmail.com
+
+Technologies:
+- Javascript, Fusion, React, Angular, Vue, Weex, jQuery, PWA, AMP
+- Node, Java, Ruby on Rails
+
+Also interested in:
+- Digital Marketing, SEO, SMM, Blogging, Web Security, Wordpress  
+
+Cheers,  
+Prahlad Timalsina  
+[prahladtimalsina.com.np](https://prahladtimalsina.com.np/)
