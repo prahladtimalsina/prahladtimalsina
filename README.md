@@ -38,8 +38,9 @@ I'm a Software Engineer by profession.
 I'm just an invite away - prahladtimalsina7@gmail.com
 
 Technologies:
-- Javascript, Fusion, React, Angular, Vue, Weex, jQuery, PWA, AMP
+- Javascript, React, Angular, Vue,  jQuery,
 - Node, Java, Ruby on Rails
+-laravel , PHP, Flutter
 
 Also interested in:
 - Digital Marketing, SEO, SMM, Blogging, Web Security, Wordpress  
