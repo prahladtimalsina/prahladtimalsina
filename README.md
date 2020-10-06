@@ -38,12 +38,12 @@ I'm a Software Engineer by profession.
 I'm just an invite away - prahladtimalsina7@gmail.com
 
 Technologies:
-- Javascript, React, Angular, Vue,  jQuery,
-- Node, Java, Ruby on Rails
+- Javascript, React, jQuery,
+- Node,
 -laravel , PHP, Flutter
 
 Also interested in:
-- Digital Marketing, SEO, SMM, Blogging, Web Security, Wordpress  
+- Digital Marketing, SEO, Blogging, DevOps ,Web Security  
 
 Cheers,  
 Prahlad Timalsina  
