@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 # Hello World,
 
 
-<a href="https://linkedin.com/in/prahladtimalsinaofficial">
+<a href="https://linkedin.com/in/prahladtimalsina">
   <img align="left" alt="Prahlad Timalsina - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
-<a href="https://instagram.com/prahlad_timalsina">
+<a href="https://instagram.com/__prahlad_timalsina__">
   <img align="left" alt="Prahlad Timalsina - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
 </a>
 <a href="https://twitter.com/officialprahlad/">
