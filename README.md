@@ -48,13 +48,13 @@ I'm just an invite away - prahladtimalsina7@gmail.com
 
 ### Technologies
 
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
-![Next](https://img.shields.io/badge/-Next-000?&logo=next.js)
-![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=flutter)
+![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=Docker)
+![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=React)
+![Laravel](https://img.shields.io/badge/-Laravel-000?style=for-the-badge&logo=Laravel)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js)
+![Flutter](https://img.shields.io/badge/-Flutter-000?style=for-the-badge&logo=flutter)
  
  
 
