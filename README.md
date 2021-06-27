@@ -40,11 +40,11 @@ I'm just an invite away - prahladtimalsina7@gmail.com
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript)
+![C](https://img.shields.io/badge/-C-000?style=for-the-badge&logo=C)
+![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=Java&logoColor=007396)
+![C++](https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=c%2b%2b&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL)
 
 ### Technologies
 
