@@ -54,7 +54,7 @@ I'm just an invite away - prahladtimalsina7@gmail.com
 ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=React)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?style=for-the-badge&logo=Laravel)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js)
-![Flutter](https://img.shields.io/badge/-Flutter-000?style=for-the-badge&logo=flutter)
+
  
  
 
@@ -68,10 +68,7 @@ I'm just an invite away - prahladtimalsina7@gmail.com
 [![](https://img.shields.io/badge/-📝%20Hulu%20Clone-000)](https://hulu-clone-prahlad.web.app/)
 [![](https://img.shields.io/badge/-🔬%20Amazon%20Clone-000)](https://clone-d9ae9.web.app/)
 [![](https://img.shields.io/badge/-🛰%20ReactJS%20Portfolio-000)]( https://prahlad-timalsina.netlify.app/)
-<!-- 
 
-<a href="https://www.prahladtimalsina.com.np/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=prahladtimalsina&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prahladtimalsina&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
- -->
 Cheers,  
 Prahlad Timalsina  
 [prahladtimalsina.com.np](https://prahladtimalsina.com.np/)
