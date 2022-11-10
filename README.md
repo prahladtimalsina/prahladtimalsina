@@ -66,9 +66,13 @@ I'm just an invite away - prahladtimalsina7@gmail.com
 [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://prahladtimalsina.com.np)
 [![](https://img.shields.io/badge/-🦠%20COVID‑19%20Tracker-000)](https://covid19-tracker-7b6fc.web.app/)
 [![](https://img.shields.io/badge/-📝%20Hulu%20Clone-000)](https://hulu-2-0-nextjs-prahlad.vercel.app/)
-[![](https://img.shields.io/badge/-🔬%20Amazon%20Clone-000)](https://clone-d9ae9.web.app/)
+[![](https://img.shields.io/badge/-🔬%20Amazon%20Reactjs%20Clone-000)](https://clone-d9ae9.web.app/)
 [![](https://img.shields.io/badge/-🛰%20ReactJS%20Portfolio-000)]( https://prahlad-timalsina.netlify.app/)
 [![](https://img.shields.io/badge/-📝%20Airbnb%20Clone-000)](https://airbnb-nextjs-eight.vercel.app/)
+[![](https://img.shields.io/badge/-🛰%20Amazon%20Nextjs%20Clone-000)](amazon-2-0-next-js.vercel.app/)
+[![](https://img.shields.io/badge/-📝%20Instagram%20Clone-000)](https://instagram-clone-nextjs-beta.vercel.app/)
+
+
 
 Cheers,  
 Prahlad Timalsina  
