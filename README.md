@@ -77,5 +77,7 @@ I'm just an invite away - prahladtimalsina7@gmail.com
 Cheers,  
 Prahlad Timalsina  
 [prahladtimalsina.com.np](https://prahladtimalsina.com.np/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prahladtimalsina&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="prahlad-timalsina" /> </p>
+
 
 
